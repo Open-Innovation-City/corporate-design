@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #020304;
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #030405;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="32.66" y="43.86" width="48.24" height="64.32" rx="5.01" ry="5.01" transform="translate(-19.25 132.8) rotate(-90)"/>
+  <rect class="cls-3" x="38.91" y="51.08" width="35.73" height="49.88" rx="2.53" ry="2.53" transform="translate(-19.25 132.8) rotate(-90)"/>
+  <polygon class="cls-3" points="69 112.26 45.42 112.26 47.42 100.14 67 100.14 69 112.26"/>
+  <rect class="cls-3" x="25" y="125" width="10.5" height="51.41"/>
+  <rect class="cls-3" x="152" y="125" width="10.5" height="51.41"/>
+  <polygon class="cls-3" points="67.57 175 49.57 175 46.57 144.11 70.57 144.11 67.57 175"/>
+  <path class="cls-3" d="M144.45,133.93h-4.13v-43.05c0-1.87-1.51-3.38-3.38-3.38h-39.37c-1.87,0-3.38,1.51-3.38,3.38v43.05h-4.13c-1.87,0-3.38,1.51-3.38,3.38s1.51,3.38,3.38,3.38h54.39c1.87,0,3.38-1.51,3.38-3.38s-1.51-3.38-3.38-3.38Z"/>
+  <rect class="cls-3" x="112.94" y="140.69" width="8.62" height="21.81"/>
+  <path class="cls-3" d="M136.5,166.41l-14.94-3.91h-8.62l-12.94,3.91c-2.76,0-5,2.24-5,5s2.24,5,5,5,5-2.24,5-5h26.5c0,2.76,2.24,5,5,5s5-2.24,5-5-2.24-5-5-5Z"/>
+  <polyline class="cls-2" points="94.18 125 25 125 25 113.04 94.18 113.04"/>
+  <polyline class="cls-2" points="140.32 113.04 162.5 113.04 162.5 125 140.32 125"/>
+  <line class="cls-1" x1="162.11" y1="100.77" x2="162.11" y2="25.77"/>
+  <polyline class="cls-1" points="143.21 43.56 162.11 24.67 181 43.56"/>
+</svg>

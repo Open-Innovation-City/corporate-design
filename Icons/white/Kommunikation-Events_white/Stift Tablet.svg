@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M116.53,66H48.62c-2.77,0-5.01,2.24-5.01,5.01v74.34c0,2.77,2.24,5.01,5.01,5.01h102.76c2.77,0,5.01-2.24,5.01-5.01v-74.34c0-2.77-2.24-5.01-5.01-5.01h-7.96"/>
+  <path class="cls-2" d="M112.3,74.44h-48.69c-1.4,0-2.53,1.13-2.53,2.53v62.42c0,1.4,1.13,2.53,2.53,2.53h79.29c1.4,0,2.53-1.13,2.53-2.53v-62.42c0-1.4-1.13-2.53-2.53-2.53h-2.77"/>
+  <line class="cls-2" x1="52.2" y1="96.03" x2="52.2" y2="120.33"/>
+  <g>
+    <polyline class="cls-4" points="143.75 52.33 118.58 106.29 105.29 118.86 105.31 118.56 106.26 100.54 131.41 46.58"/>
+    <g>
+      <ellipse class="cls-1" cx="137.58" cy="49.46" rx="2.72" ry="6.81" transform="translate(34.61 153.25) rotate(-65)"/>
+      <path class="cls-2" d="M141.13,57.95c-.63,1.36-3.91,1.18-7.32-.41s-5.65-3.98-5.02-5.34"/>
+      <path class="cls-2" d="M119.16,105.05c-.63,1.36-3.91,1.18-7.32-.41s-5.65-3.98-5.02-5.34"/>
+      <path class="cls-3" d="M71.41,118.75s6.65-4.16,16.33,0c9.68,4.16,17.55.1,17.55.1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #1d1d1b;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-1" points="130 81.79 150 72.6 150 95.59"/>
+  <line class="cls-1" x1="100" y1="95.59" x2="120" y2="86.39"/>
+  <line class="cls-1" x1="119.92" y1="146.94" x2="100" y2="157.41"/>
+  <polyline class="cls-1" points="150 107.77 150 131.13 130 141.64"/>
+  <polyline class="cls-1" points="50 107.59 50 131.13 70 141.64"/>
+  <polyline class="cls-1" points="70 81.79 50 72.6 50 95.5"/>
+  <polyline class="cls-1" points="100 116.2 100 95.59 80 86.39"/>
+  <polyline class="cls-1" points="80.08 146.94 100 157.41 100 136.81"/>
+  <line class="cls-1" x1="130" y1="61.6" x2="150" y2="72.6"/>
+  <polyline class="cls-1" points="80 56.11 83.17 54.37 100 45.12 120 56.11"/>
+  <line class="cls-1" x1="50" y1="72.6" x2="70" y2="61.6"/>
+  <line class="cls-1" x1="100" y1="45.12" x2="100" y2="68.02"/>
+  <line class="cls-1" x1="50" y1="131.13" x2="70" y2="121.51"/>
+  <line class="cls-1" x1="150" y1="131.13" x2="130" y2="121.51"/>
+</svg>

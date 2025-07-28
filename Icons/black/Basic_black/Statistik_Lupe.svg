@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-5 {
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-4 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-4, .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-5 {
+        stroke: #020304;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #1d1d1b;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <polyline class="cls-3" points="134.67 126.86 162.93 155.12 154.73 163.33 126.46 135.05"/>
+    </clipPath>
+  </defs>
+  <g>
+    <g>
+      <circle class="cls-4" cx="111.4" cy="110.85" r="28.96"/>
+      <polyline class="cls-2" points="135.53 126.79 163.74 155.01 155.55 163.2 127.32 134.97"/>
+      <path class="cls-4" d="M130.7,110.85c0-10.66-8.64-19.3-19.3-19.3"/>
+    </g>
+    <g>
+      <g class="cls-6">
+        <circle class="cls-4" cx="110.5" cy="110.89" r="29"/>
+        <path class="cls-1" d="M129.84,110.89c0-10.68-8.65-19.33-19.33-19.33"/>
+      </g>
+      <polyline class="cls-3" points="134.67 126.86 162.93 155.12 154.73 163.33 126.46 135.05"/>
+    </g>
+  </g>
+  <rect class="cls-5" x="37.5" y="97.31" width="19.44" height="27.21"/>
+  <polyline class="cls-5" points="115.08 76.11 115.08 56.5 95.64 56.5 95.64 80.11"/>
+  <polyline class="cls-5" points="79.67 124.52 66.79 124.52 66.79 73.99 86.22 73.99 86.22 88.06"/>
+</svg>

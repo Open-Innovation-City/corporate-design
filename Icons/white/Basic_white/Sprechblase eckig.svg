@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="38.04 134.39 38.04 39.32 163.87 39.32 163.87 134.39 84.09 134.39 72.93 153.18 61.49 134.39 38.04 134.39"/>
+</svg>

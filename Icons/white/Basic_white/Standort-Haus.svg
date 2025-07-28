@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M107.37,116.74l.02-.03h0c4.12-6.29,6.53-13.81,6.53-21.89,0-22.09-17.91-40-40-40s-40,17.91-40,40c0,8.31,2.54,16.03,6.88,22.43h0l33.12,50.13,1.26-1.91,32.19-48.74Z"/>
+  <circle class="cls-1" cx="73.92" cy="92.33" r="12.5"/>
+  <polyline class="cls-2" points="117.17 77.86 133.54 77.86 133.54 114.06 157.03 114.06 157.03 68.81"/>
+  <polyline class="cls-2" points="94.42 53.74 120.84 32.61 166.08 68.81"/>
+  <polyline class="cls-2" points="138.93 41.66 138.93 37.46 157.03 37.46 157.03 53.13"/>
+</svg>

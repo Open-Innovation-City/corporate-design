@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-2" cx="99.98" cy="51.05" rx="21.71" ry="6.53"/>
+  <path class="cls-2" d="M121.69,59.47c0,3.61-9.72,6.53-21.71,6.53s-21.71-2.92-21.71-6.53"/>
+  <path class="cls-2" d="M121.69,97.9c1.37,3.22-9.72,6.53-21.71,6.53s-22.82-3.18-21.71-6.53v-8.94c0,3.61,9.72,6.53,21.71,6.53s21.71-2.92,21.71-6.53v8.94Z"/>
+  <polyline class="cls-1" points="96.5 104.42 100.11 155.48 103.29 104.42"/>
+  <path class="cls-2" d="M78.27,88.96c7.97-13.71,0-29.75,0-29.75v-8.16"/>
+  <path class="cls-2" d="M121.69,51.05v8.16s-7.97,16.03,0,29.75"/>
+</svg>

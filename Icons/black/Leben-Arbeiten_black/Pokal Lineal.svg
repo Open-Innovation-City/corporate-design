@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #020304;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke: #010202;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M74.46,119.68c18.82-24.09,16.38-56.21,16.38-56.21h-47.87s-2.44,32.12,16.38,56.21"/>
+  <path class="cls-1" d="M74.46,119.68s-.84,10.72,3.69,16.06h-11.39"/>
+  <path class="cls-1" d="M59.05,119.68s.84,10.72-3.69,16.06h11.39"/>
+  <rect class="cls-1" x="44.27" y="135.74" width="44.97" height="16.06"/>
+  <line class="cls-1" x1="55.36" y1="143.77" x2="78.15" y2="143.77"/>
+  <path class="cls-1" d="M38.2,74.71h-13.2c0,24.83,18.69,44.97,41.75,44.97s41.75-20.13,41.75-44.97h-13.13"/>
+  <line class="cls-2" x1="131" y1="105.44" x2="119" y2="105.44"/>
+  <line class="cls-2" x1="131" y1="116.18" x2="119" y2="116.18"/>
+  <line class="cls-2" x1="131" y1="126.92" x2="119" y2="126.92"/>
+  <line class="cls-2" x1="131" y1="137.65" x2="119" y2="137.65"/>
+  <line class="cls-2" x1="131" y1="62.5" x2="119" y2="62.5"/>
+  <line class="cls-2" x1="131" y1="73.24" x2="119" y2="73.24"/>
+  <line class="cls-2" x1="131" y1="83.97" x2="119" y2="83.97"/>
+  <line class="cls-2" x1="131" y1="94.71" x2="119" y2="94.71"/>
+  <rect class="cls-2" x="118.49" y="49.99" width="31.51" height="100.01"/>
+</svg>

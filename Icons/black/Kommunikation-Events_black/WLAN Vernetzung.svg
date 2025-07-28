@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke: #030405;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke: #030505;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="70.34" y="50" width="57.5" height="100" rx="5.01" ry="5.01"/>
+  <rect class="cls-2" x="76.59" y="59.61" width="45" height="75" rx="2.53" ry="2.53"/>
+  <line class="cls-2" x1="91" y1="142.5" x2="107.19" y2="142.5"/>
+  <line class="cls-1" x1="136.89" y1="99.99" x2="159.44" y2="99.99"/>
+  <circle class="cls-1" cx="168.65" cy="99.99" r="7.82"/>
+  <polyline class="cls-1" points="136.89 113.98 155.16 113.98 155.16 128.74"/>
+  <circle class="cls-1" cx="155.16" cy="136.56" r="7.82"/>
+  <g>
+    <polyline class="cls-1" points="136.89 86.11 155.16 86.11 155.16 71.38"/>
+    <circle class="cls-1" cx="155.16" cy="63.56" r="7.82"/>
+  </g>
+  <line class="cls-1" x1="63.11" y1="100.13" x2="40.56" y2="100.13"/>
+  <circle class="cls-1" cx="31.35" cy="100.13" r="7.82"/>
+  <polyline class="cls-1" points="63.11 86.14 44.84 86.14 44.84 71.38"/>
+  <circle class="cls-1" cx="44.84" cy="63.56" r="7.82"/>
+  <g>
+    <polyline class="cls-1" points="63.11 114.01 44.84 114.01 44.84 128.74"/>
+    <circle class="cls-1" cx="44.84" cy="136.56" r="7.82"/>
+  </g>
+  <path class="cls-3" d="M85.47,86.78c7.56-7.56,19.8-7.56,27.36,0"/>
+  <path class="cls-3" d="M90.05,91.28c5.04-5.04,13.22-5.04,18.26,0"/>
+  <path class="cls-3" d="M94.67,95.75c2.48-2.48,6.5-2.48,8.98,0"/>
+  <circle class="cls-3" cx="99.16" cy="100.06" r="1.28"/>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="37.4" y="84.18" width="125.13" height="26.1"/>
+  <rect class="cls-1" x="50.23" y="71.81" width="12.5" height="12.38"/>
+  <rect class="cls-1" x="137.34" y="71.81" width="12.5" height="12.38"/>
+  <rect class="cls-1" x="50.23" y="143.55" width="12.5" height="28.13"/>
+  <rect class="cls-1" x="137.34" y="143.55" width="12.5" height="28.13"/>
+  <rect class="cls-1" x="50.23" y="110.13" width="12.5" height="7.11"/>
+  <rect class="cls-1" x="137.34" y="110.13" width="12.5" height="7.11"/>
+  <line class="cls-1" x1="37.4" y1="110.28" x2="56.93" y2="84.18"/>
+  <line class="cls-1" x1="48.96" y1="110.28" x2="68.48" y2="84.18"/>
+  <line class="cls-1" x1="68.95" y1="110.28" x2="88.48" y2="84.18"/>
+  <line class="cls-1" x1="80.51" y1="110.28" x2="100.03" y2="84.18"/>
+  <line class="cls-1" x1="99.97" y1="110.28" x2="119.49" y2="84.18"/>
+  <line class="cls-1" x1="111.52" y1="110.28" x2="131.05" y2="84.18"/>
+  <line class="cls-1" x1="131.52" y1="110.28" x2="151.04" y2="84.18"/>
+  <line class="cls-1" x1="143.07" y1="110.28" x2="162.6" y2="84.18"/>
+  <rect class="cls-1" x="37.4" y="117.45" width="125.13" height="26.1"/>
+  <line class="cls-1" x1="37.4" y1="143.55" x2="56.93" y2="117.45"/>
+  <line class="cls-1" x1="48.96" y1="143.55" x2="68.48" y2="117.45"/>
+  <line class="cls-1" x1="68.95" y1="143.55" x2="88.48" y2="117.45"/>
+  <line class="cls-1" x1="80.51" y1="143.55" x2="100.03" y2="117.45"/>
+  <line class="cls-1" x1="99.97" y1="143.55" x2="119.49" y2="117.45"/>
+  <line class="cls-1" x1="111.52" y1="143.55" x2="131.05" y2="117.45"/>
+  <line class="cls-1" x1="131.52" y1="143.55" x2="151.04" y2="117.45"/>
+  <line class="cls-1" x1="143.07" y1="143.55" x2="162.6" y2="117.45"/>
+  <circle class="cls-1" cx="100.78" cy="50.94" r="22.62"/>
+  <rect class="cls-1" x="88.62" y="48.15" width="24.33" height="5.58"/>
+</svg>

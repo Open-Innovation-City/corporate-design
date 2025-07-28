@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <line class="cls-1" x1="50" y1="156.25" x2="50" y2="118.75"/>
+  <line class="cls-1" x1="150" y1="118.75" x2="150" y2="156.25"/>
+  <path class="cls-1" d="M150,156.25c0,10.36-22.39,18.75-50,18.75s-50-8.39-50-18.75"/>
+  <line class="cls-1" x1="75" y1="113.44" x2="75" y2="78"/>
+  <ellipse class="cls-1" cx="87.47" cy="78" rx="12.47" ry="4.68"/>
+  <line class="cls-1" x1="99.94" y1="117.14" x2="99.94" y2="65.31"/>
+  <line class="cls-1" x1="125" y1="65.31" x2="125" y2="113.44"/>
+  <ellipse class="cls-1" cx="112.47" cy="65.31" rx="12.53" ry="4.7"/>
+  <line class="cls-1" x1="87.55" y1="73.32" x2="87.55" y2="42.08"/>
+  <line class="cls-1" x1="112" y1="42.08" x2="112" y2="60.61"/>
+  <ellipse class="cls-1" cx="99.77" cy="42.08" rx="12.23" ry="4.58"/>
+  <line class="cls-1" x1="99.77" y1="46.67" x2="99.77" y2="29.99"/>
+  <circle class="cls-1" cx="100" cy="25" r="5"/>
+  <line class="cls-1" x1="137.5" y1="103.08" x2="137.5" y2="131.2"/>
+  <path class="cls-1" d="M125,92.6c7.67,2.57,12.5,6.32,12.5,10.48,0,7.77-16.79,14.06-37.5,14.06s-37.5-6.3-37.5-14.06c0-4.16,4.83-7.91,12.5-10.48"/>
+  <line class="cls-1" x1="62.5" y1="131.2" x2="62.5" y2="103.08"/>
+  <path class="cls-1" d="M137.42,106.31c7.83,3.31,12.58,7.66,12.58,12.44,0,10.36-22.39,18.75-50,18.75s-50-8.39-50-18.75c0-4.76,4.72-9.1,12.5-12.4"/>
+  <path class="cls-1" d="M92.4,82.14c0-2.76-2.24-5-5-5s-5,2.24-5,5"/>
+  <path class="cls-1" d="M117.47,69.56c0-2.76-2.24-5-5-5s-5,2.24-5,5"/>
+</svg>

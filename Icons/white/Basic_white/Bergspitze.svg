@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="168.26 162.14 114.82 69.58 85.51 120.36 70.68 94.68 31.74 162.14 109.63 162.14 109.63 162.14 168.26 162.14"/>
+  <line class="cls-1" x1="114.84" y1="69.58" x2="114.84" y2="37.86"/>
+  <rect class="cls-1" x="114.84" y="37.86" width="25.04" height="16.7"/>
+</svg>

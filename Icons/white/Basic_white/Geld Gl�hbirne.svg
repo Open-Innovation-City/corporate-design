@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-2" points="137.5 63.78 156.8 63.78 156.8 143.3 128.38 143.3"/>
+  <polyline class="cls-2" points="71.93 143.3 43.2 143.3 43.2 63.78 62.5 63.78"/>
+  <polyline class="cls-1" points="51.83 84.98 51.83 71.35 65.47 71.35"/>
+  <polyline class="cls-1" points="65.47 134.23 51.83 134.23 51.83 120.59"/>
+  <polyline class="cls-1" points="148.62 84.98 148.62 71.35 134.99 71.35"/>
+  <polyline class="cls-1" points="134.99 134.23 148.62 134.23 148.62 120.59"/>
+  <g>
+    <path class="cls-3" d="M100.03,121.07c-7.25,0-13.12,5.88-13.12,13.12"/>
+    <line class="cls-4" x1="100.06" y1="111.25" x2="100.06" y2="104.69"/>
+    <line class="cls-4" x1="77.09" y1="134.22" x2="70.52" y2="134.22"/>
+    <line class="cls-4" x1="129.6" y1="134.22" x2="123.03" y2="134.22"/>
+    <line class="cls-4" x1="83.81" y1="117.97" x2="79.18" y2="113.34"/>
+    <line class="cls-4" x1="120.95" y1="155.11" x2="116.31" y2="150.47"/>
+    <line class="cls-4" x1="83.81" y1="150.46" x2="79.18" y2="155.11"/>
+    <line class="cls-4" x1="120.95" y1="113.34" x2="116.3" y2="117.98"/>
+    <path class="cls-2" d="M94.81,164.41h1.97v2.62h6.56v-2.62h1.97v-11.22c8.32-2.3,14.44-9.92,14.44-18.97,0-10.87-8.81-19.69-19.69-19.69s-19.68,8.81-19.68,19.69c0,9.06,6.11,16.68,14.44,18.97,0,0,0,11.22,0,11.22Z"/>
+    <line class="cls-3" x1="94.81" y1="157.06" x2="105.31" y2="157.06"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="100" cy="64.22" r="31.25" transform="translate(-1.98 3.19) rotate(-1.81)"/>
+    <path class="cls-1" d="M110.41,77.48c-2.27,2.11-5.35,3.4-8.74,3.4-6.94,0-12.58-3.43-12.58-10.11v-11.12c0-6.68,5.64-12.1,12.58-12.1,3.44,0,6.55,1.33,8.83,3.49"/>
+    <line class="cls-1" x1="85.4" y1="59.95" x2="101.67" y2="59.95"/>
+    <line class="cls-1" x1="85.4" y1="69.1" x2="101.67" y2="69.1"/>
+  </g>
+</svg>

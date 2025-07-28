@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #1d1d1b;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        stroke: #040506;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-2" points="119.61 67.66 127.24 147.67 72.72 147.67 80.36 67.66"/>
+  <polygon class="cls-2" points="134.33 174.93 65.64 174.93 68.91 147.67 131.06 147.67 134.33 174.93"/>
+  <line class="cls-2" x1="121.52" y1="89.99" x2="78.45" y2="89.99"/>
+  <line class="cls-2" x1="124.38" y1="117.67" x2="75.95" y2="117.67"/>
+  <rect class="cls-1" x="80.36" y="40.22" width="39.26" height="27.39"/>
+  <polygon class="cls-2" points="99.98 25 124.02 40.22 75.95 40.22 99.98 25"/>
+  <path class="cls-3" d="M106.38,147.67h-13.33v-12.18c0-3.36,2.99-6.09,6.67-6.09s6.67,2.74,6.67,6.09v12.18Z"/>
+  <path class="cls-3" d="M103.19,82.46h-6.67v-6.09c0-1.68,1.5-3.05,3.33-3.05s3.33,1.37,3.33,3.05v6.09Z"/>
+  <path class="cls-3" d="M103.19,108.4h-6.67v-6.09c0-1.68,1.5-3.05,3.33-3.05s3.33,1.37,3.33,3.05v6.09Z"/>
+  <line class="cls-2" x1="128.98" y1="53.63" x2="145.5" y2="53.63"/>
+  <line class="cls-2" x1="128.98" y1="46.58" x2="136.69" y2="38.87"/>
+  <line class="cls-2" x1="128.98" y1="60.69" x2="136.69" y2="68.4"/>
+  <line class="cls-2" x1="71.02" y1="53.63" x2="54.5" y2="53.63"/>
+  <line class="cls-2" x1="71.02" y1="46.58" x2="63.31" y2="38.87"/>
+  <line class="cls-2" x1="71.02" y1="60.69" x2="63.31" y2="68.4"/>
+  <line class="cls-1" x1="109.72" y1="46.2" x2="109.72" y2="62.12"/>
+  <line class="cls-1" x1="100" y1="46.2" x2="100" y2="62.12"/>
+  <line class="cls-1" x1="90.37" y1="46.2" x2="90.37" y2="62.12"/>
+  <line class="cls-2" x1="80.36" y1="46.2" x2="119.61" y2="46.2"/>
+  <line class="cls-2" x1="80.36" y1="62.12" x2="119.61" y2="62.12"/>
+</svg>

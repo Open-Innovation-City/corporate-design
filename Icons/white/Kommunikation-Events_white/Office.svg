@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="100.21 99.15 25 129.91 100.21 160.67 175 129.91 100.21 99.15"/>
+  <polygon class="cls-1" points="100 39.33 100 99.15 25 129.91 25 71.27 100 39.33"/>
+  <polygon class="cls-1" points="100 39.33 100 99.15 175 129.91 175 71.27 100 39.33"/>
+  <polygon class="cls-1" points="66.94 66.01 66.94 99.81 33.33 113.6 33.33 80.32 66.94 66.01"/>
+  <polygon class="cls-1" points="90.67 56.82 90.67 70.3 76.27 76.2 76.27 62.95 90.67 56.82"/>
+  <polygon class="cls-1" points="90.67 76.83 90.67 90.31 76.27 96.22 76.27 82.96 90.67 76.83"/>
+  <polygon class="cls-1" points="109.2 56.94 109.2 90.75 142.8 104.53 142.8 71.26 109.2 56.94"/>
+  <polygon class="cls-1" points="151 74.6 151 108.41 166.61 115.19 166.61 81.91 151 74.6"/>
+  <polygon class="cls-1" points="99.95 126.44 116.46 119.69 99.95 112.94 83.54 119.69 99.95 126.44"/>
+  <polygon class="cls-1" points="100 139.57 100 126.44 116.46 119.69 116.46 132.56 100 139.57"/>
+  <polygon class="cls-1" points="100 139.57 100 126.44 83.54 119.69 83.54 132.56 100 139.57"/>
+</svg>

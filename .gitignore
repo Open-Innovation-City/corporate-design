@@ -1,0 +1,52 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+~*.tmp
+
+# Adobe files
+*.ai~
+*.psd~
+*.indd~
+*.idlk
+
+# Office temporary files
+~$*.pptx
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# System files
+*.log
+*.cache
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Compressed files (exclude if needed)
+# *.zip
+# *.rar
+# *.7z

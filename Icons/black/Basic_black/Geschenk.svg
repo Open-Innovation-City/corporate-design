@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #010202;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #020304;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-1" points="92.74 132.91 92.74 69.67 108.69 69.67 108.69 137.05"/>
+  <polyline class="cls-1" points="88.39 93.59 58.14 93.59 58.14 69.67 114.47 69.67"/>
+  <polyline class="cls-1" points="117.75 69.67 141.86 69.67 141.86 93.59 108.69 93.59"/>
+  <polyline class="cls-1" points="140.14 97.76 140.14 137.45 60.41 137.45 60.41 93.59"/>
+  <line class="cls-1" x1="92.74" y1="93.59" x2="104.49" y2="93.59"/>
+  <path class="cls-2" d="M89.99,69.67l-15.35-11.36c-1.64-2.55-.89-5.95,1.66-7.59l8.26-5.29c2.55-1.64,5.95-.89,7.59,1.66l8.12,22.57"/>
+  <path class="cls-3" d="M110.29,69.68l15.35-11.36c1.64-2.55.89-5.95-1.66-7.59l-8.26-5.29c-2.55-1.64-5.95-.89-7.59,1.66l-6.44,15.63"/>
+</svg>

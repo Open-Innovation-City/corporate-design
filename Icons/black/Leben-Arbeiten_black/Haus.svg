@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #010202;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <line class="cls-1" x1="79.78" y1="153.75" x2="79.78" y2="85.5"/>
+  <line class="cls-1" x1="119.94" y1="85.5" x2="119.94" y2="153.75"/>
+  <polyline class="cls-1" points="119.94 85.5 156.36 85.5 169.26 105.76 169.26 153.63"/>
+  <polyline class="cls-1" points="79.78 85.5 43.93 85.5 31.03 105.76 31.03 153.75"/>
+  <polyline class="cls-1" points="91.12 153.75 91.12 130.75 108.62 130.75 108.62 153.75"/>
+  <circle class="cls-1" cx="99.86" cy="93.14" r="6.68"/>
+  <polygon class="cls-1" points="99.86 61.19 79.78 74.1 79.78 85.5 99.86 73.09 119.94 85.5 119.94 74.15 99.86 61.19"/>
+  <line class="cls-1" x1="99.8" y1="63.14" x2="99.8" y2="51.25"/>
+  <rect class="cls-1" x="99.82" y="41.25" width="15" height="10"/>
+  <line class="cls-1" x1="24.8" y1="158.75" x2="175.2" y2="158.75"/>
+  <line class="cls-1" x1="31.03" y1="105.76" x2="79.78" y2="105.76"/>
+  <line class="cls-1" x1="119.94" y1="105.67" x2="169.26" y2="105.67"/>
+</svg>

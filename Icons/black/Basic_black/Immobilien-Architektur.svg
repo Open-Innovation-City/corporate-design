@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #010202;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-linecap: square;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-2" points="168.75 163.62 168.75 71.12 31.25 71.31 31.25 163.62"/>
+  <rect class="cls-1" x="43.65" y="82.9" width="12.5" height="12.5"/>
+  <rect class="cls-1" x="43.75" y="102.26" width="12.5" height="12.5"/>
+  <rect class="cls-1" x="68.7" y="82.9" width="12.5" height="12.5"/>
+  <rect class="cls-1" x="68.8" y="102.26" width="12.5" height="12.5"/>
+  <rect class="cls-1" x="93.7" y="82.9" width="12.5" height="12.5"/>
+  <rect class="cls-1" x="93.8" y="102.26" width="12.5" height="12.5"/>
+  <rect class="cls-1" x="43.75" y="121.62" width="12.5" height="12.5"/>
+  <rect class="cls-1" x="43.75" y="143.4" width="12.5" height="12.5"/>
+  <line class="cls-2" x1="25" y1="171.62" x2="175" y2="171.62"/>
+</svg>

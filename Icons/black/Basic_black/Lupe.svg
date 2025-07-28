@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #020304;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-4 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #1d1d1b;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <polyline class="cls-3" points="114.98 105.5 151.52 142.04 140.92 152.65 104.36 116.09"/>
+    </clipPath>
+  </defs>
+  <g>
+    <circle class="cls-4" cx="84.88" cy="84.8" r="37.45"/>
+    <polyline class="cls-2" points="116.09 105.41 152.56 141.9 141.97 152.49 105.47 115.98"/>
+    <path class="cls-4" d="M109.84,84.8c0-13.79-11.17-24.96-24.96-24.96"/>
+  </g>
+  <g>
+    <g class="cls-5">
+      <circle class="cls-4" cx="83.73" cy="84.85" r="37.5"/>
+      <path class="cls-1" d="M108.73,84.85c0-13.81-11.19-25-25-25"/>
+    </g>
+    <polyline class="cls-3" points="114.98 105.5 151.52 142.04 140.92 152.65 104.36 116.09"/>
+  </g>
+</svg>
