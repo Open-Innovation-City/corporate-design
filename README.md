@@ -2,7 +2,7 @@
 
 **Dieses Repsotiry beinhaltet die Corporate Design Ressourcen für Open Innovation City.**
 
-Das Corporate Design in diesem Ordner entspricht dem Stand von August 2024. In der Zwischenzeit haben sich Änderungen ergeben, die noch nicht in das Corporate Design übertragen werden konnten. Die Hauptänderung bezieht sich auf das Logo-Design. Die Stadt Bielefeld nutzt ab sofort ein überarbeitetes Logo, bestehend aus den stilisierten Buchstaben OIC und dem Schriftzug „Open Innovation City Bielefeld“. Darunter wird die Tagline „Eine Initiative der Stadt Bielefeld“ geführt. Im alten Design besteht der Schriftzug nur aus „Open Innovation City“. 
+Das Corporate Design in diesem Repository entspricht dem Stand von August 2024. In der Zwischenzeit haben sich Änderungen ergeben, die noch nicht in das Corporate Design Manual übertragen werden konnten. Die Hauptänderung bezieht sich auf das Logo-Design. OIC Bielefeld nutzt ab sofort ein überarbeitetes Logo, bestehend aus den stilisierten Buchstaben OIC und dem Schriftzug „Open Innovation City Bielefeld“. Darunter wird die Tagline „Eine Initiative der Stadt Bielefeld“ geführt. Im alten Design besteht der Schriftzug nur aus „Open Innovation City“. 
 
 Wir haben das Wort „Bielefeld“ ergänzt, um eine einheitliche Verwendung in anderen Kommunen zu ermöglichen. Das aktuelle Logo ist im Ordner Logos_OIC_Bielefeld zu finden.
 
